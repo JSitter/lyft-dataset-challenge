@@ -1,1 +1,4 @@
 datasets
+.ipynb_checkpoints
+.DS_Store
+.directory
