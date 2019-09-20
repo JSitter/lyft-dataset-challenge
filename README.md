@@ -26,4 +26,11 @@ Download the [85 Gb dataset]() and place it into the datasets folder.
 
 The `datasets` and `notebooks` directories are mounted as volumes and are immediately available when updated instead of having to be packaged into the containers.
 
+Add any required dependencies into the requirements.txt file.
+
 ## Included Files
+
+...
+
+
+This is the basic structure and this Readme is under construction **beep** **beep**.

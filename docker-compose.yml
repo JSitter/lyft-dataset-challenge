@@ -9,3 +9,10 @@ services:
       - 8888:8888
     command: jupyter lab
     container_name: jupyter_container
+
+  yolo:
+    image: nvidia/cuda:9.0-base
+    ports:
+     - 8072:80
+    
+    container_name: yolo_container
