@@ -22,7 +22,7 @@ The terminal will output the required access token that will be asked in order t
 
 Docker will also allow access to our host's GPU if it has one - [per the documentation](https://www.tensorflow.org/install/docker).
 
-Download the [85 Gb dataset]() and place it into the datasets folder.
+Download the [85 Gb dataset](https://www.kaggle.com/c/15768/download-all) and place it into the datasets folder.
 
 The `datasets` and `notebooks` directories are mounted as volumes and are immediately available when updated instead of having to be packaged into the containers.
 
